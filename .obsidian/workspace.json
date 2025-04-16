@@ -205,11 +205,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ee02c7f5bb246a70",
+  "active": "3edd1777cf498bdd",
   "lastOpenFiles": [
+    "LICENSE",
     "工作/linux",
     "工作",
     "未命名.md",
